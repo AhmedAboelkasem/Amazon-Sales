@@ -12,7 +12,8 @@ This project focuses on designing, building, and analyzing a data architecture f
 
      
 ### 2. Data Analysis in SQL
-   - Conducted analysis using SQL queries on the raw data to gain initial insights into sales patterns, trends, and customer behavior.
+   - Conducted analysis using SQL queries on the raw data to gain initial insights into sales patterns, trends, and customer behavior.[`AmazonSales_SQL Analysis.bak`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/final%20SQL%20queries.sql)
+
 
 
 ### 3. Exploratory Data Analysis (EDA) and Sales Forecasting in Python
