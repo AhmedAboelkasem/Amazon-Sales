@@ -8,7 +8,7 @@ This project focuses on designing, building, and analyzing a data architecture f
 ### 1. Database Design and ERD Modeling
    - Designed the Entity-Relationship Diagram (ERD) to visually map out the database structure and relationships.
    - **ERD Image**: <img src="https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/ERD%20image.png?raw=true">
-   - Created a relational database in SQL Server.[`database_backup.bak`]([path/to/database_backup.bak](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/AmazonSales.bak))
+   - Created a relational database in SQL Server.[`AmazonSales_backup.bak`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/AmazonSales.bak)
 
      
 ### 2. Data Analysis in SQL
