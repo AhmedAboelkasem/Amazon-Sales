@@ -8,7 +8,7 @@ This project focuses on designing, building, and analyzing a data architecture f
 ### 1. Database Design and ERD Modeling
    - Designed the Entity-Relationship Diagram (ERD) to visually map out the database structure and relationships.
    - **ERD Image**: <img src="https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/ERD%20image.png?raw=true">
-   - Created a relational database in SQL Server.
+   - Created a relational database in SQL Server.<href src="https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/AmazonSales.bak">
 
      
 ### 2. Data Analysis in SQL
@@ -23,7 +23,6 @@ This project focuses on designing, building, and analyzing a data architecture f
 ### 4. Data Warehousing and ETL with Snowflake Schema
    - Designed and implemented a data warehouse using the Snowflake schema model.
    - Developed an ETL pipeline in Python to extract data from SQL Server, perform necessary transformations, and load the processed data as CSV files.
-   - Uploaded CSV files to a dedicated SQL pool (data warehouse) in Azure Synapse Analytics for centralized data storage and advanced analytics.
 
 
 ### 5. Loading Data into Azure Synapse Analytics
