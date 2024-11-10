@@ -23,7 +23,8 @@ This project focuses on designing, building, and analyzing a data architecture f
 
 ### 4. Data Warehousing and ETL with Snowflake Schema
    - Designed and implemented a data warehouse using the Snowflake schema model.
-   - Developed an ETL pipeline in Python to extract data from SQL Server, perform necessary transformations, and load the processed data as CSV files.
+   - **DWH Image** : <img src="https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/QuickDBD-Amazon%20Sales%20DB.png?raw=true">
+   - Developed an ETL pipeline in Python to extract data from SQL Server, perform necessary transformations, and load the processed data as CSV files.[`Amazon Sales ETL`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/files%20preparation%20_%20ETL.ipynb)
 
 
 ### 5. Loading Data into Azure Synapse Analytics
