@@ -12,13 +12,13 @@ This project focuses on designing, building, and analyzing a data architecture f
 
      
 ### 2. Data Analysis in SQL
-   - Conducted analysis using SQL queries on the raw data to gain initial insights into sales patterns, trends, and customer behavior.[`AmazonSales_SQL Analysis.bak`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/final%20SQL%20queries.sql)
+   - Conducted analysis using SQL queries on the raw data to gain initial insights into sales patterns, trends, and customer behavior.[`AmazonSales_SQL Analysis`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/final%20SQL%20queries.sql)
 
 
 
 ### 3. Exploratory Data Analysis (EDA) and Sales Forecasting in Python
    - Performed EDA on the dataset to understand distributions, correlations, and data quality.
-   - Built a sales forecasting model in Python to predict future sales trends based on historical data.
+   - Built a sales forecasting model in Python to predict future sales trends based on historical data.[`Amazon Sales EDA and Forecast`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/E-Commerce%20Sales%20Forecast.ipynb)
 
 
 ### 4. Data Warehousing and ETL with Snowflake Schema
